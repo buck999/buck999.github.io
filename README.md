@@ -1,2 +1,2 @@
-## https://buck999.com.br
+## https://buck999.github.io
  My Personal Site
